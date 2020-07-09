@@ -1,6 +1,6 @@
 ### Hi there 👋
-# I'm Peter
-# This is my personal github, don't use it for work though so this is where you can find my public personal projects
+### I'm Peter
+### This is my personal github, don't use it for work though so this is where you can find my public personal projects
 
 I'm a CS -not grad- with a few years of experience under my belt in C, C++, Javascript, Typescript, React, and some blockchain work as well.
 
