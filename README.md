@@ -1,5 +1,5 @@
 ### hi there 👋
-### i'm peter
+
 ### this is my github, with some personal projects, open-source contributions, and the one i use for work as well
 
 i'm a software engineer with a few years of experience under my belt in c, c++, js, ts, react, go, rust, and some blockchain work as well.
